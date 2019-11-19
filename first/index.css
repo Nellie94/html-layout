@@ -1,0 +1,32 @@
+
+
+body {
+    background-color: gray;
+    margin: 0;
+}
+
+.box1 {
+    background-color: black;
+    height: 15vh;
+    width: 100%;
+} 
+.box2, .box3 {
+    margin: 0 auto;
+}
+
+ .box2 {
+     background-color: white;
+     width: 80vw;
+     height: 75vh;
+
+} 
+
+.box3 {
+    background-color: red;
+    width: 80vw;
+    height: 10vh;
+
+}
+
+
+
